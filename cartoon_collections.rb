@@ -14,7 +14,6 @@ long_planeteer_calls(short_words)
 
 end
 
- 
 assorted_words = ["two", "go", "industrious", "bop"]
 long_planeteer_calls(assorted_words)
 
