@@ -1,2 +1,1 @@
---color
---format documentation
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
